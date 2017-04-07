@@ -1,6 +1,6 @@
 # Mirror Mirror
 
-### based on the Magic Mirror 2 open source platform
+### Based on the Magic Mirror 2 open source platform.
 
 ## The Smart Mirror's features:
 * User Facial Recognition.
